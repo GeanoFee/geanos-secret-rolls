@@ -28,3 +28,11 @@ This module uses a "Ghost Roll" technique:
 4.  It creates a new, purely cosmetic `WHISPER` message containing that HTML.
 
 This ensures that the Game System (e.g., dnd5e) cannot interfere or try to "sanitize" the roll for other players, guaranteeing total privacy.
+
+## 🚀 Installation
+
+- **Manifest URL**: `https://github.com/GeanoFee/geanos-scene-optimizer/releases/latest/download/module.json` within Foundry's "Install Module" window.
+
+---
+## License
+This module is licensed under the [MIT License](LICENSE).
