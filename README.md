@@ -31,9 +31,10 @@ This ensures that the Game System (e.g., dnd5e) cannot interfere or try to "sani
 
 ## 🚀 Installation
 
-- **Manifest URL**: `https://github.com/GeanoFee/geanos-scene-optimizer/releases/latest/download/module.json` within Foundry's "Install Module" window.
+- **Manifest URL**: `https://github.com/GeanoFee/geanos-secret-rolls/releases/latest/download/module.json` within Foundry's "Install Module" window.
 
 ---
 ## License
 This module is licensed under the [MIT License](LICENSE).
+
 
