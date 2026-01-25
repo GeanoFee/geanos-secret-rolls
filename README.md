@@ -1,6 +1,6 @@
 # Geano's Secret Rolls
 
-**Geano's Secret Rolls** is a Foundry VTT module (v12+) that adds a true "Secret Roll" option to the roll mode menu.
+**Geano's Secret Rolls** is a Foundry VTT module that adds a true "Secret Roll" option to the roll mode menu.
 
 Unlike the standard "Blind GM Roll" (which hides results from everyone but uses a placeholder card) or "Private GM Roll" (which shows a gray box to players), a **Secret Roll** is completely invisible to all other players. It appears **only** to the person who rolled it and the Game Masters.
 
@@ -36,3 +36,4 @@ This ensures that the Game System (e.g., dnd5e) cannot interfere or try to "sani
 ---
 ## License
 This module is licensed under the [MIT License](LICENSE).
+
